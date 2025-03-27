@@ -1,0 +1,5 @@
+working_directory = "/Volumes/pcmm-carroll/Public/Danni/Lingwood\ collaboration/Lingwood\ IGH1-69\ FL\ 7d\ transfer/R1/IHC/F-L\ to\ 564\ R1__042722\ vh169\ stitched\ images\ for\ analysis/Vh169\ 7dpt_4\ spleen2\ 30x\ stitch/"
+percentage_B6 = 0.65
+percentage_564 = 0.18
+percentage_Vh169 = 0.17
+threshold_G6 = 1000
